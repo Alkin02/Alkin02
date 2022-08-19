@@ -1,9 +1,9 @@
 **_Welcome to my page_**
 - 👋 Hi, I’m @Alkin02
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on nothing for now.
-- 📫 How to reach me does not exit.
+- 🌱 I’m currently learning Java ,Python and C++.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 You can reach by alkin.deniz@yahoo.com .
 
 ![hhello](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJxD0zgRtRGgY5JSHHvT51hNXfdmb4bfkog&usqp=CAU)
 
